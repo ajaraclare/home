@@ -1,0 +1,6 @@
+create a folder on your desktop and name it text and one to it.
+
+push it to a git repo called text.
+
+
+5 mins
